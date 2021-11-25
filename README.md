@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, my name is Ritchiel Reza
+#### I am a self taught programmer, who like **C++** and **Rust**!
+![I am a self taught programmer, who like **C++** and **Rust**!](http://posterposse.com/wp-content/uploads/2016/10/doctor-strange-comic-con-poster-art-featured-image.jpg)
 
-<!--
-**ritchielrez/ritchielrez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm interested to make big scale applications, which is fast, built on clean code, also looks clean so users don't get scared or confused with the UI. I'm a teenager and I'm preparing myself to make something exceptional **to help the world!** Not all of my projects will be released to Github, until they become useful enough to make them public.
 
-Here are some ideas to get you started:
+Skills: C / C++(LEARNING) / PYTHON(LEARNING) / RUST(LEARNING)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
