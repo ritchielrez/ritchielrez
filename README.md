@@ -6,7 +6,7 @@ I'm interested to make big scale applications, which is fast, built on clean cod
 
 Skills: C / C++(LEARNING) / PYTHON(LEARNING) / RUST(LEARNING)
 
-![Ritchiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritchielrez&show_icons=true&theme=github_dark)
+![Ritchiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritchielrez&show_icons=true&theme=github_dark)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritchielrez)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on this page. 
