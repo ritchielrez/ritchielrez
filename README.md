@@ -4,7 +4,7 @@
 
 I'm interested to make big scale applications, which is fast, built on clean code, also looks clean so users don't get scared or confused with the UI. I'm a teenager and I'm preparing myself to make something exceptional **to help the world!** Not all of my projects will be released to Github, until they become useful enough to make them public.
 
-**Skills**: Linux, C, C#
+**Skills**: *Linux, C, C#*
 
 ![Ritchiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritchielrez&show_icons=true&theme=github_dark&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritchielrez&show_icons=true&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
