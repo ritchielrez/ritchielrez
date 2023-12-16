@@ -8,16 +8,16 @@ programmer or server administrator in the future. Scroll down below this page to
 on and I am proud about.
 
 **Programming languages that I know the basics of:**
-- C
-- C++
-- Golang
+- *C*
+- *C++*
+- *Golang*
 
 **Sofwares that I use:**
-- Firefox (my preferred web browser)
-- Windows/Linux (I like to hop between these two operating systems often)
-- Neovim/Vscode (Both are fine but I like neovim more)
-- Visual Studio (The only IDE that I like to use)
-- Alacritty (An amazing terminal emulator which works on all major platforms)
+- *Firefox* (my preferred web browser)
+- *Windows/Linux* (I like to hop between these two operating systems often)
+- *Neovim/Vscode* (Both are fine but I like neovim more)
+- *Visual Studio* (The only IDE that I like to use)
+- *Alacritty* (An amazing terminal emulator which works on all major platforms)
 
 ![Ritchiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritchielrez&show_icons=true&theme=github_dark&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritchielrez&show_icons=true&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
